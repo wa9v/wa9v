@@ -1,16 +1,18 @@
-## Hi there 👋
+<h2 align="center">The Blacker the Berry the Sweeter the Juice</h2>
 
-<!--
-**Port770/Port770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+  ![banner_thing](https://komarev.com/ghpvc/?username=port770&color=brightgreen)
+  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :trophy: My Github Stats:
+
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=port770&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=port770&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=port770&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=port770&hide=php&theme=tokyonight" />
+</a>
+</div>
