@@ -1,4 +1,4 @@
-<h2 align="center">The Blacker the Berry the Sweeter the Juice</h2>
+<h2 align="center">Info!</h2>
 
 <p align="center">
 
