@@ -1,4 +1,4 @@
-<h2 align="center">made with love ❎ made with code ☑️!</h2>
+<h2 align="center">made with love ❌ made with code ✅!</h2>
 
 <p align="center">
 
