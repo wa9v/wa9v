@@ -1,4 +1,4 @@
-<h2 align="center">Info!</h2>
+<h2 align="center">I hate skids, larps!</h2>
 
 <p align="center">
 
