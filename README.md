@@ -68,7 +68,7 @@ Feel free to check out all my repositories! There’s something for every securi
 ## 🔗 Connect With Me
 
 - 📧 **pm me on discord**: [wa9v]
-- 🌐 **Website**: [https://guns.lol/4jqz]
+- 🌐 **Website**: [https://guns.lol/aens]
 
 
 ---
